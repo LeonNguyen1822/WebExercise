@@ -1,0 +1,75 @@
+h1 {
+    font-variant: inherit;
+    font-weight: bold;
+    font-size: 100px;
+    color: goldenrod;
+    letter-spacing: 4px;
+    text-align: center;
+    background-color: blanchedalmond;
+    
+}
+img {
+    width: 75%;
+   min-height: 20%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+h2 { font-weight: bold;
+    font-size: 100px;
+    color: goldenrod;
+    letter-spacing: 4px;
+    text-align: center;
+    
+
+}
+p{
+    font-size: 80px;
+    text-align: center;
+}
+#anh1 {
+    width:auto;
+    height: auto;
+}
+h3{
+    font-weight: bold;
+    font-size: 100px;
+    color: goldenrod;
+    letter-spacing: 4px;
+    text-align: center;
+    
+}
+#anh2{
+    width: 50%;
+}
+#pc{
+    font-size: 80px;
+    text-align: center;
+
+}
+h4{
+    font-weight: bold;
+    font-size: 100px;
+    color: goldenrod;
+    letter-spacing: 4px;
+    text-align: center;
+    
+
+}
+#anh4{
+    width: auto;
+    height: auto;
+}
+footer{
+    background-color: blanchedalmond;
+}
+a { font-weight: bold;
+    font-size: 100px;
+    color: red;
+    letter-spacing: 4px;
+    text-align: center;
+    background-color: chartreuse;
+    background-origin: s;
+    
+
+}
